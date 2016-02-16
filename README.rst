@@ -8,7 +8,7 @@ A DSL for configuration of Python's ``logging`` module.
  Installation
 --------------------------------------------------------------------------------
 
-From ``PyPI` with ``pip``:
+From ``PyPI`` with ``pip``:
 
 .. code-block:: bash
 
